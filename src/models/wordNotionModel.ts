@@ -2,7 +2,7 @@ import { notionModelCreate } from "@/notions";
 
 export const wordNotionModel = notionModelCreate({
   title: "word",
-  databaseId: "3a6c9b0c5c2f4010996420a4412e94c7",
+  databaseId: "99a3b579e98e48fbba870079644afa73",
   field: {
     영어: "title",
     한국어: "rich_text",
